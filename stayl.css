@@ -1,0 +1,837 @@
+*{
+    margin: 0;
+    padding: o;
+    text-decoration: none;
+    list-style: none;
+ }
+
+
+ nav{
+    background: #00353B;
+ }
+ 
+ .list_item {
+    margin-top: 24px;
+    margin-bottom: 15px;
+    padding-left: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+ }
+
+
+ .list{
+    display: flex;
+    justify-content: center;
+    margin-left: 530px;
+ }
+
+
+ .search{
+    margin-top: -24px;
+    margin-left: 310px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+ }
+
+
+ .cart{
+    margin-left: 310px;
+    margin-top: -25px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+ }
+
+
+ .fa-solid{
+    margin-left: 260px;
+ }
+
+
+ .fa-solid{
+    color: white;
+   
+ }
+
+
+ .ptnnol{
+    padding: 12px 20px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.blade{
+    margin-top: 24px;
+}
+
+
+.blomace{
+   margin-left: 40px;
+    margin-top: 24px;
+}
+
+
+.odam{
+    margin-left: 20px;
+}
+
+
+.ptnnol{
+    display: flex;
+    justify-content: end;
+    margin-top: 12px;
+    margin-left: 200px;
+}
+
+
+.solod{
+    margin-left: 20px;
+}
+
+
+.become{
+    margin-top: 130px;
+    font-weight: 400;
+    font-size: 56px;
+    color: #FFFFFF;
+}
+
+
+.famliy{
+    margin-top: 48px;
+    margin-bottom: 84px;
+}
+
+
+.loremm{
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+.explor{
+    padding: 11px 23px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+
+
+.watch{
+    font-size: 16px;
+    margin-left: 185px;
+    margin-top: -37px;
+    color: #FFFFFF;
+}
+
+
+.allphoto{
+    margin-top: 63px;
+}
+
+
+.lolo{
+    margin-top: 33px;
+    margin-left: 10px;
+}
+
+
+.form{
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 180px;
+    margin-top: -25px;
+}
+
+
+.turisr{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 340px;
+}
+
+
+.code{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #1F2937;
+    margin-top: 90px;
+}
+
+
+
+
+
+section{
+    background: #FCD8CA;
+    border-radius: 24px;
+    width: 1280px;
+    height: 425px;
+    margin-left: 130px;
+    margin-top: -190px;
+    margin-bottom: 160px;
+}
+
+
+.lorkface{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #374151;
+}
+
+
+.robot{
+    padding: 11px 24px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.buttonblack{
+    display: flex;
+    justify-content: center;
+}
+
+
+.girl{
+    margin-bottom: 130px;
+}
+
+
+.premium{
+    font-weight: 400;
+    font-size: 48px;
+    color: #1F2937;
+    margin-top: 100px;
+}
+
+
+.logative{
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #4B5563;
+}
+
+
+.logo{
+    padding: 12px 25px;
+    margin-top: 20px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.loremore{
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 150px;
+    margin-top: -36px;
+    color: #111827;
+}
+
+
+.elise{
+    margin-top: 130px;
+    font-weight: 400;
+    font-size: 48px;
+    color: #1F2937;
+}
+
+
+.ipsupe{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+.started{
+    padding: 11px 26px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.morelorem{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #111827;
+    margin-left: 155px;
+    margin-top: -35px;
+}
+
+
+.imgnegr{
+    margin-bottom: 170px;
+}
+
+
+.popular{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #1F2937;
+}
+
+
+.dollor{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #4B5563;
+    margin-bottom: 65px;
+}
+
+
+.mini{
+    padding: 4px 8px;
+    font-size: 14px;
+    color: #000000;
+    background: #f5cfc0;
+    border-radius: 8px;
+}
+
+
+.vivo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.smolfot{
+    padding: 4px 10px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+
+.webflor{
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+
+.cardd{
+    background: #00353B;
+    border-radius: 16px;
+    
+    margin-bottom: 85px;
+}
+
+
+.usd{
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
+
+
+.premoer{
+    padding: 9px 23px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;
+    margin-top: 245px;
+    margin-left: 24px;
+}
+
+
+.dumaloq{
+    width: 230px;
+    height: 250px;
+    margin-left: 175px;
+    margin-top: -220px;
+}
+
+
+.bobo{
+    position: absolute;
+    width: 1280px;
+    height: 780px;
+    background: #FCD8CA;
+    border-radius: 24px;
+    margin-top: 40px;
+
+}
+
+
+.what{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #1F2937;
+    margin-top: 135px;
+}
+
+.elita{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #4B5563;
+}
+
+
+.amet{
+    font-weight: 400;
+    font-size: 17px;
+    color: #1F2937;
+    margin-top: 35px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+
+.odamm{
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+
+
+.carddd{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 400px;
+    height: 300px;
+    margin-top: -110px;
+    
+    
+}
+
+
+.qorayulduz{
+    padding-top: 30px;
+    margin-left: 20px;
+}
+
+
+.cardddd{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 400px;
+    height: 300px;
+    margin-top: -380px;
+    margin-left: 230px;
+}
+
+
+.carddddd{
+    background: #FFFFFF;
+    border-radius: 16px;
+    width: 400px;
+    height: 300px;
+    margin-top: -380px;
+    margin-left: 455px;
+}
+
+
+.grand{
+    width: 1280px;
+    height: 539px;
+    background: #FCD8CA;
+    border-radius: 24px;
+    margin-top: 110px;
+}
+
+
+.student{
+    font-weight: 400;
+    font-size: 48px;
+    color: #1F2937;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+
+.eros{
+    font-weight: 400;
+    font-size: 18px;
+    color: #374151;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+
+.yaxyo{
+    padding: 13px 26px;
+    margin-left: 60px;
+    margin-top: 50px;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.yaxyoo{
+    width: 640px;
+    height: 539px;
+    margin-left: 95px;
+}
+
+
+.coures{
+    font-weight: 400;
+    font-size: 24px;
+    color: #1F2937;
+    margin-bottom: 25px;
+}
+
+
+.yashilbir{
+    margin-bottom: 40px;
+}
+
+
+.consert{
+    font-weight: 400;
+    font-size: 16px;
+    color: #4B5563;
+    margin-bottom: 195px;
+}
+
+
+.knowlegend{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #1F2937;
+}
+
+
+.legenda{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #4B5563;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+.yashillola{
+    margin-top: 120px;
+    margin-left: 135px;
+    margin-bottom: 20px;
+}
+
+
+.hous{
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+    color: #1F2937;
+}
+
+
+.varius{
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: #4B5563;
+    margin-bottom: -50px;
+}
+
+
+.element{
+    margin-left: 60px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+.velo{
+    padding: 12px 26px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #1F2937;
+    border: 1px solid #1F2937;
+    border-radius: 8px;
+}
+
+
+.yildirim{
+    margin-top: 460px;
+}
+
+
+.velosiped{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 140px;
+
+}
+
+
+.kichkina{
+    padding: 3px 9px;
+    background: #FCD8CA;
+    border-radius: 4px;
+    border: none;
+}
+
+
+.post{
+    font-weight: 400;
+    font-size: 48px;
+    color: #FFFFFF;
+    margin-bottom: 85px;
+}
+
+
+.flower{
+    margin-top: 70px;
+    margin-top: 445px;
+}
+
+
+.yurak{
+    padding: 12px 25px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    margin-top: 110px;
+    border: none;
+}
+
+
+.gaguar{
+    display: flex;
+    justify-content: end;
+    margin-top: 370px;
+}
+
+
+.students{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #1F2937;
+    margin-top: 130px;
+}
+
+
+.bigleorn{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #4B5563;
+}
+
+
+.birinchi{
+    margin-top: 80px;
+}
+
+
+.free{
+    padding: 3px 9px;
+    background: #AADEA8;
+    border-radius: 4px;
+    border: none;
+}
+
+
+.mistake{
+    font-weight: 400;
+    font-size: 29px;
+    color: #1F2937;
+}
+
+
+.allreal{
+    font-weight: 400;
+    font-size: 16px;
+    color: #111827;
+    margin-top: 50px;
+}
+
+
+.allreall{
+    margin-bottom: 48px;
+}
+
+
+.today{
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 120px;
+}
+
+
+.visits{
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+
+.btnpro{
+    padding: 13px 26px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.btnnoob{
+    padding: 13px 26px;
+    background: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #1F2937;
+    margin-left: 20px;
+}
+    
+
+.pronoob{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 130px;
+}
+
+
+.join{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+
+.realni{
+    padding: 12px 50px;
+    background: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
+    border-radius: 8px;
+    color: white;
+    
+    margin-bottom: 20px;
+}
+
+
+.subcribe{
+    padding: 12px 26px;
+    background: #22A45A;
+    border: 1px solid #22A45A;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+
+.https{
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+
+.listitem{
+    color: white;
+    padding-top: 20px;
+}
+
+
+.foter{
+    margin-top: 50px;
+}
+
+
+.listliner{
+    margin-bottom: 240px;
+    margin-top: -40px;
+    margin-left: 30px;
+}
+
+
+.lenova{
+    font-weight: 400;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+
+
+.fa-brands{
+    padding: 8px 8px;
+    color: white;
+    margin-left: 20px;
+    background: #158E5E;
+    border-radius: 4px;
+}
+
+
+.font-awesome{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+
+    
+}
